@@ -2,6 +2,8 @@
 
 Simple landing page with sliding menu and modal
 
+#### Live Preview :- https://stymsaw.github.io/landing-page-protype/
+
 ## Project Specifications
 
 - Create and style landing page
